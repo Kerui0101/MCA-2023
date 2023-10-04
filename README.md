@@ -19,4 +19,4 @@ In terms of curation, the Baroque period pieces can be found in various versions
 For the current manifestations of data relating to the Baroque period, resources like IMSLP present musical scores, often collected from various sources, with details about the edition, publisher, and year. Descriptions might also include historical contexts, possible interpretations, and analyses. However, ensuring the accuracy of these descriptions and separating interpretations from authentic compositions can be a challenge.
 
 # Week 2
-I have decided to transcribe: **<Abscheuliche Tiefe des großen Verderbens**
+ I have decided to transcribe: **<Abscheuliche Tiefe des großen Verderbens**
