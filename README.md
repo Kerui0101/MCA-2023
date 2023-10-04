@@ -20,6 +20,6 @@ For the current manifestations of data relating to the Baroque period, resources
 
 # Week 2
  I have decided to transcribe: **Abscheuliche Tiefe des großen Verderbens**
-- Edited Musescore file:![Week2](https://github.com/Kerui0101/MCA-2023/assets/145458151/ee14adb1-a309-4bbc-9afd-a3d2a81e0aab)
+- Edited Musescore file
 
 
