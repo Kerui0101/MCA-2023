@@ -1,4 +1,4 @@
-# Week 1
+# Week1
 ## Task 1:
 Theme Selection: **The Baroque Period**
 
