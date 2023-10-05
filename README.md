@@ -21,4 +21,4 @@ For the current manifestations of data relating to the Baroque period, resources
 # Week 2
  I have decided to transcribe: **Abscheuliche Tiefe des großen Verderbens**
 - Original PDF file：[Week2.pdf](https://github.com/Kerui0101/MCA-2023/files/12810971/Week2.pdf)
-- [Click here to download] (https://github.com/Kerui0101/MCA-2023/raw/master/Week%202.mscz)
+- [Click here to download](https://github.com/Kerui0101/MCA-2023/raw/master/Week%202.mscz)
