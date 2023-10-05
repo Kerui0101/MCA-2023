@@ -37,4 +37,4 @@ Some of the note conversions are wrong and I need to correct them.
 - Download the MusicXML File: [here](https://github.com/Kerui0101/MCA-2023/raw/master/data/Week%202.mxl)
 - Download the Mei File :[here](https://github.com/Kerui0101/MCA-2023/blob/master/data/Week%203.mei)
 
-[Week1] ()
+[Week1] (Week 1.md)
