@@ -32,4 +32,4 @@ The instrument is incorrect, I need to change the instrument to Flute, Violetta 
 Some of the note conversions are wrong and I need to correct them.
 
 # Week 3
-- This week's content is to export last week's MuseScore file to a MusicXML file, and then convert it into an MEI file.
+ This week's content is to export last week's MuseScore file to a MusicXML file, and then convert it into an MEI file.
