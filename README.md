@@ -1,10 +1,10 @@
 # Week 1
-## Task 2:
+## Task 1:
 Theme Selection: **The Baroque Period**
 
 **Reason:** The Baroque period, spanning from around 1600 to 1750, saw many influential composers like Johann Sebastian Bach, George Frideric Handel, and Antonio Vivaldi. Given its rich history and vast collection of works, it's feasible to obtain musical scores, metadata, and audio recordings associated with this period. For sources, I'd consider exploring the International Music Score Library Project (IMSLP), which is an extensive resource for public domain music scores.
 
-## Task 3
+## Task 2:
 **Challenges to working with music and music-related data:**
 - **Access:** Many vintage recordings or scores might be in private collections or under restrictive copyrights. This makes it difficult for researchers and enthusiasts to access them.
 - **Curation:** With vast volumes of musical data available, effectively cataloging and organizing this data becomes a challenge. This becomes more difficult when considering various versions, editions, or interpretations of the same piece.
@@ -20,5 +20,13 @@ For the current manifestations of data relating to the Baroque period, resources
 
 # Week 2
  I have decided to transcribe: **Abscheuliche Tiefe des großen Verderbens**
+
+
 - Original PDF file：[Week2.pdf](https://github.com/Kerui0101/MCA-2023/files/12810971/Week2.pdf)
-- [Click here to download](https://github.com/Kerui0101/MCA-2023/raw/master/Week%202.mscz)
+
+- Edited MuseScore file: [Click here to download](https://github.com/Kerui0101/MCA-2023/raw/master/Week%202.mscz)
+
+- Some changes needed:
+I need to add sheet music information (e.g. title, composer, lyrics, etc.).
+The instrument is incorrect, I need to change the instrument to Flute, Violetta or Bassoon, Voice, Continuo,
+Some of the note conversions are wrong and I need to correct them.
