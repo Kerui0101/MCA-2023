@@ -1,0 +1,12 @@
+# Week 2
+ I have decided to transcribe: **Abscheuliche Tiefe des großen Verderbens**
+
+
+- **Original PDF file:**[Week2.pdf](https://github.com/Kerui0101/MCA-2023/files/12810971/Week2.pdf)
+
+- **Edited MuseScore file:** [Click here to download](https://github.com/Kerui0101/MCA-2023/raw/master/data/Week%202.mscz)
+
+- **Some changes needed:**
+I need to add sheet music information (e.g. title, composer, lyrics, etc.).
+The instrument is incorrect, I need to change the instrument to Flute, Violetta or Bassoon, Voice, Continuo,
+Some of the note conversions are wrong and I need to correct them.
