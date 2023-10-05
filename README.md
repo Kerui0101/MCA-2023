@@ -27,6 +27,6 @@ For the current manifestations of data relating to the Baroque period, resources
 - **Edited MuseScore file:** [Click here to download](https://github.com/Kerui0101/MCA-2023/raw/master/Week%202.mscz)
 
 - **Some changes needed:**
-- I need to add sheet music information (e.g. title, composer, lyrics, etc.).
-- The instrument is incorrect, I need to change the instrument to Flute, Violetta or Bassoon, Voice, Continuo,
-- Some of the note conversions are wrong and I need to correct them.
+ I need to add sheet music information (e.g. title, composer, lyrics, etc.).
+ The instrument is incorrect, I need to change the instrument to Flute, Violetta or Bassoon, Voice, Continuo,
+ Some of the note conversions are wrong and I need to correct them.
