@@ -3,3 +3,5 @@
 
 - Download the MusicXML File: [Here](Week3.musicxml)
 - Download the Mei File: [Here](Week3.mei)
+
+{% include_relative verovio_inline.html %}
