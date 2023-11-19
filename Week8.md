@@ -1,3 +1,5 @@
+[Week 1](Week1.md)|[Week 3](Week3.md)|[Week 4](Week4.md)|[Week 5](Week5.md)|[Week 7](Week7.md)|[Week 8](Week8.md)|[Week 9](Week9.md)|[Week 10](Week10.md)
+---
 # Week 8: Music as sound
 ## Finding Audio
 - Track 1: [Concerti grossi, Op. 6 no. 1](https://www.youtube.com/watch?v=DUDhxZKUvEg)
@@ -30,3 +32,5 @@ Duration|3:40|4:29|2:49|
 
 ## Analyse
 The comparative benefits of time-frequency analysis, specifically using spectrograms, over waveform analysis for understanding musical pieces. Time-frequency analysis via spectrograms is favored for identifying specific notes and understanding the melodic structure, as it visually represents how frequencies vary over time. In contrast, waveform analysis primarily indicates amplitude and energy levels, corresponding to loudness, without offering direct insight into pitch or harmony. The spectrogram's ability to show what frequencies are prominent at any given time can reveal the harmonic structure and rhythmic qualities, potentially even the key of the piece, by identifying the most common notes. This makes spectrograms particularly useful for analyzing complex auditory information like music, where understanding both the temporal and frequency aspects is crucial.
+
+## <a href="#top" id="myBtn" title="Go to top">Top</a>
