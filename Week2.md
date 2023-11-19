@@ -1,4 +1,4 @@
-# Week 2
+# Week 2: Notation basics
  I have decided to transcribe: **Abscheuliche Tiefe des großen Verderbens**
 
 
