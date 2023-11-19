@@ -3,6 +3,7 @@
 Theme Selection: **The Baroque Period**
 
 **Reason:** The Baroque period, spanning from around 1600 to 1750, saw many influential composers like Johann Sebastian Bach, George Frideric Handel, and Antonio Vivaldi. Given its rich history and vast collection of works, it's feasible to obtain musical scores, metadata, and audio recordings associated with this period. For sources, I'd consider exploring the International Music Score Library Project (IMSLP), which is an extensive resource for public domain music scores.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4rGqazZSbgM?si=YRSe1UO2qsJLnjPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Task 2:
 **Challenges to working with music and music-related data:**
