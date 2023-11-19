@@ -1,4 +1,4 @@
-# Week 7
+# Week 7: Challenges to music curation
 ## Abscheuliche Tiefe des großen Verderbens
 - Composer: Telemann, Georg Philipp
 - Encoded by: Kerui Huang
