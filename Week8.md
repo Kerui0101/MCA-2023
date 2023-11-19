@@ -33,4 +33,4 @@ Duration|3:40|4:29|2:49|
 ## Analyse
 The comparative benefits of time-frequency analysis, specifically using spectrograms, over waveform analysis for understanding musical pieces. Time-frequency analysis via spectrograms is favored for identifying specific notes and understanding the melodic structure, as it visually represents how frequencies vary over time. In contrast, waveform analysis primarily indicates amplitude and energy levels, corresponding to loudness, without offering direct insight into pitch or harmony. The spectrogram's ability to show what frequencies are prominent at any given time can reveal the harmonic structure and rhythmic qualities, potentially even the key of the piece, by identifying the most common notes. This makes spectrograms particularly useful for analyzing complex auditory information like music, where understanding both the temporal and frequency aspects is crucial.
 
-## <a href="#top" id="myBtn" title="Go to top">Top</a>
+<a href="#top" id="myBtn" title="Go to top">Top</a>
