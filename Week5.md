@@ -20,4 +20,4 @@
 ## The MEI File is [Here](data/Week5.mei)
 {% include_relative verovio_inline.html %}
 
-## <a href="#top" id="myBtn" title="Go to top">Top</a>
+<a href="#top" id="myBtn" title="Go to top">Top</a>
