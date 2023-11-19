@@ -7,3 +7,4 @@
 - Download the Mei File: [Here](data/Week3.mei)
 
 {% include_relative verovio_inline.html %}
+## <a href="#top" id="myBtn" title="Go to top">Top</a>
