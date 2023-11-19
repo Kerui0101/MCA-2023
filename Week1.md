@@ -18,3 +18,5 @@ The Baroque period's music often faces challenges in access, particularly for le
 In terms of curation, the Baroque period pieces can be found in various versions or editions, often based on interpretations or reconstructions. This poses challenges for a researcher or musician trying to stay authentic to a particular version.
 
 For the current manifestations of data relating to the Baroque period, resources like IMSLP present musical scores, often collected from various sources, with details about the edition, publisher, and year. Descriptions might also include historical contexts, possible interpretations, and analyses. However, ensuring the accuracy of these descriptions and separating interpretations from authentic compositions can be a challenge.
+
+<a href="#Go Top" id="myBtn" title="Go to top">Top</a>
