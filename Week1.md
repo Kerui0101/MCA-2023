@@ -1,4 +1,4 @@
-[Week2.md](Week 2) [Week3.md](Week 3)
+[Week 2](Week2.md)
 # Week 1: Basics of Music Data
 ## Task 1:
 Theme Selection: **The Baroque Period**
