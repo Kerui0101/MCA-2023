@@ -1,4 +1,4 @@
-# Week 5
+# Week 5: Standards in curation
 ## I would use to describe them as I believe they are the most important:
 
 - Metadata about the file itself:
