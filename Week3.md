@@ -1,4 +1,4 @@
-# Week 3
+# Week 3: Encoding basics for notation
  This week's content is to export last week's MuseScore file to a MusicXML file, and then convert it into an MEI file.
 
 - Download the MusicXML File: [Here](data/Week3.musicxml)
