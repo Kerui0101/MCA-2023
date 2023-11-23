@@ -5,8 +5,15 @@ Extracte the Chroma features in SonicVisualizer and generate a similarity matrix
 
 ## SONGS USED
 1. Beethoven - For Elise (Arr. for Music Box) - WoO 59
+
+<img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/a1b79784-ac9d-4e12-a018-927ed82fa81b">
+
 2. Bach - The Well-Tempered Clavier - Book 1 - 1. Prelude C Majo
+
+<img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/72dc2bfa-99ce-44af-b47e-baebf65d961e">
+
 3. Bach - Violin Concerto No.2 in E Major - Allegro - BWV 1042
+<img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/d3edfa36-77b9-4f08-b53a-e056ede9b781">
 
 ## Task 1
 Similarity matrices of C's & A's (left) & of all notes (right):
@@ -18,4 +25,8 @@ Mean feature vector representation (left) & similarity within 2D space (right):
 <img width="265" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/f84a0908-da1b-4752-866e-30f4c95c2b3b"> <img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/69a8de93-f8c4-4f81-9280-5b335725f233">
 
 ## Task 2
-Original track:
+Original track check [Here]
+
+<img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/5124b1dc-2c9a-4554-b278-a60db829b639"><img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/688ed19d-d43a-4988-a4c2-e3032e4b87c9">
+
+Edited track check <iframe src="https://gla-my.sharepoint.com/personal/2677190h_student_gla_ac_uk/_layouts/15/embed.aspx?UniqueId=7edcabdd-3819-4d46-9dd9-d3268fd7eb51&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Week2.wav"></iframe>
