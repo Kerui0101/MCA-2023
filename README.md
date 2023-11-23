@@ -4,5 +4,7 @@
 ## [Week 3](Week3.md) 
 ## [Week 4](Week4.md)
 ## [Week 5](Week5.md)
-## [Wekk 7](Week7.md)
+## [Week 7](Week7.md)
 ## [Wekk 8](Week8.md)
+## [Wekk 9](Week9.md)
+## [Wekk 10](Week10.md)
