@@ -30,3 +30,11 @@ Mean feature vector representation (left) & similarity within 2D space (right):
 
 ### Redone track
 <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/9c232ddb-edad-4111-89c1-bc3cbcdf6b6b"> <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/03b9506e-1f24-4544-baa2-445e63825372"> <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/d132caad-8a42-4e7f-89df-8129d4549dad">
+
+### Transcribed
+<img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/c24177fd-8124-4d11-8d17-18dd535c84dc">
+
+### Transcription Analysis
+The polyphonic transcription of a MIDI render retained certain elements, like correct chords and harmonies, and matched the original audio file's length. However, it inaccurately captured the time signature, and had imprecise note-length values and rhythm, with early bars transcribed as an extended chord. The transcription partially preserved the staccato section near the end but included errors like interpreting harmonics as actual notes, leading to extreme high and low notes. Significant details from the original, such as title, composer, instrumentation, and dynamic markings, were lost. While some resemblance in harmonic and rhythmic structures existed, the transcription was predominantly marked by inaccuracies and discrepancies compared to the original.
+
+<a href="#Top" id="myBtn" title="Go to top">Top</a>
