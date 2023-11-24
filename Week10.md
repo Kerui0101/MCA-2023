@@ -32,6 +32,7 @@ Mean feature vector representation (left) & similarity within 2D space (right):
 <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/9c232ddb-edad-4111-89c1-bc3cbcdf6b6b"> <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/03b9506e-1f24-4544-baa2-445e63825372"> <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/d132caad-8a42-4e7f-89df-8129d4549dad">
 
 ### Transcribed
+Transcribe the file using the same process as the Group activity on Tuesday
 <img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/c24177fd-8124-4d11-8d17-18dd535c84dc">
 
 ### Transcription Analysis
