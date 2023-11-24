@@ -25,9 +25,8 @@ Mean feature vector representation (left) & similarity within 2D space (right):
 <img width="265" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/f84a0908-da1b-4752-866e-30f4c95c2b3b"> <img width="360" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/69a8de93-f8c4-4f81-9280-5b335725f233">
 
 ## Task 2
-Original track check
-<iframe src="https://gla-my.sharepoint.com/personal/2677190h_student_gla_ac_uk/_layouts/15/embed.aspx?UniqueId=4fe64799-16ef-49c2-a636-8d355aded247&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Week 2.wav"></iframe>
-
+### Original track 
 <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/5124b1dc-2c9a-4554-b278-a60db829b639"><img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/688ed19d-d43a-4988-a4c2-e3032e4b87c9">
 
-Edited track check 
+### Redone track
+<img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/9c232ddb-edad-4111-89c1-bc3cbcdf6b6b"> <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/03b9506e-1f24-4544-baa2-445e63825372"> <img width="255" alt="image" src="https://github.com/Kerui0101/MCA-2023/assets/145458151/d132caad-8a42-4e7f-89df-8129d4549dad">
